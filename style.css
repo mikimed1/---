@@ -1,0 +1,34 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a, div, footer {
+	padding: 0;
+	border: 0;
+	margin: 0;
+}
+
+html{
+	font-size: 12px;
+	width:100%;
+}
+
+h1 {
+	font-family: Tahoma;
+	font-size: 24px;
+	text-align: center;
+}
+
+.menu {
+	line-height: 50px;
+	height: 50%;
+	width: 20%;;
+	float:left;
+	 box-shadow:3px 3px 4px green;
+	 margin: 50px 0 0 50px;
+}
+
+
+.container { margin-left:40%;
+margin-top: 50px;}
+
+ .names li { 
+	list-style-type: square;}
+	
+	
